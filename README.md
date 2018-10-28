@@ -1,2 +1,5 @@
-# fictional-engine
-just another repository
+# hello-world
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript
